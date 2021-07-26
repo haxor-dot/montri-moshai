@@ -4,7 +4,8 @@ body{
 }
 
 h1{
-    font:Trebuchet MS;
+    font-family: 'Trebuchet MS', sans-serif;
     color: white;
-    stroke: 2px black;
+    font-size: 45px;
+    -webkit-text-stroke: 1px black;
 }
